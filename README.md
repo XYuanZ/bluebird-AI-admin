@@ -12,7 +12,7 @@
 
 ## 简介
 
-> 结合了LLM对话框组件2.0的后台管理项目。TEST（我在XYuanZ分支修改）
+> 结合了LLM对话框组件2.0的后台管理项目。
 
 参考了[`SoybeanAdmin`](https://github.com/soybeanjs/soybean-admin) 开源项目。
 
