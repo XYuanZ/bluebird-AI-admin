@@ -74,5 +74,16 @@ export const generatedRoutes: GeneratedRoute[] = [
       constant: true,
       hideInMenu: true
     }
+  },
+  {
+    name: 'search',
+    path: '/search',
+    component: 'layout.base$view.search',
+    meta: {
+      title: 'search',
+      i18nKey: 'route.search',
+      icon: 'oui:search',
+      order: 2
+    }
   }
 ];
